@@ -1,4 +1,4 @@
-# Image-Converter-PNG-To-JPG-
+# Image-Converter-JPG-To-PNG
 
 Hi!
 
